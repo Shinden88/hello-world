@@ -1,0 +1,2 @@
+Month, Profit
+01/Apr/2004, $1500
